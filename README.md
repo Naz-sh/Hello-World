@@ -1,3 +1,2 @@
 # Hello-World
-Test rep
-commit test...
+Test commits and merges
